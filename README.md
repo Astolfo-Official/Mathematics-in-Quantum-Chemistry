@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+在图书馆中偶然碰到此书，不忍心让如此良物沉寂在图书馆的地下室中，且寻不到 PDF 版，遂决定将其誊写一份。在誊写过程中，本人的一些想法将在本书的脚注中陈述。感谢同学卷王帮忙从图书馆借下此书并绘制图片 (30% 的图片)，本工作得以顺利进行。限于本人水平，誊抄若有不当之处，希望读者指正。
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+本书为本人试图整理的量子化学教程的一部分（不知道会鸽到什么时候），作为入门教程。
