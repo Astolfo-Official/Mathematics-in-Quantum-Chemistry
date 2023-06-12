@@ -1,0 +1,69 @@
+\documentclass[lang=cn,10pt]{elegantbook}
+\usepackage{physics}
+\title{Mathematics in Quantum Chemistry}
+
+\author{J.M.Anderson (美)}
+\bioinfo{翻译}{邹宪法}
+
+\extrainfo{Too young too simple, sometimes naive.}
+
+\setcounter{tocdepth}{3}
+
+\cover{cover.jpg}
+
+% 本文档命令
+\usepackage{array}
+\newcommand{\ccr}[1]{\makecell{{\color{#1}\rule{1cm}{1cm}}}}
+
+% 修改标题页的橙色带
+% \definecolor{customcolor}{RGB}{32,178,170}
+% \colorlet{coverlinecolor}{customcolor}
+
+\begin{document}
+
+\maketitle
+\frontmatter
+
+
+\mainmatter
+
+\chapter*{译 \ 者 \ 的 \ 话}
+\setcounter{page}{1}
+\pagenumbering{roman}
+偶读此书，顺便译出。
+作者在这本书中只介绍了两个数学课题——正交函数微积分，向量空间代数和两个物理课题——拉格朗日经典力学，哈密顿经典力学。
+其取材精炼，针对性强，对初学量子化学的同志，是一本值得参考的书。
+故将其初稿重新整理出版，并对原书中某些文字上的错误做了修正，对原书所附各章习题答案并未做核对，仅供参考。许多同志对初稿提出了不少宝贵的意见，在此一并致谢。
+限于译者水平，译文有不当之处，希望读者指正。
+\begin{flushright}
+    译 \qquad 者 \\ 一九七九年十月
+\end{flushright}
+\chapter*{来自\textit{Astolfo}}
+在图书馆中偶然碰到此书，不忍心让如此良物沉寂在图书馆的地下室中，且寻不到PDF版，遂决定将其誊写一份。
+在誊写过程中，本人的一些想法将在本书的脚注中陈述。感谢同学
+\begin{Large}
+\textbf{卷王}
+\end{Large}
+帮忙从图书馆借下此书并绘制图片(30\%的图片)，本工作得以顺利进行。
+限于本人水平，誊抄若有不当之处，希望读者指正。
+\begin{flushright}
+    \textit{Astolfo} \\ 2022年2月
+\end{flushright}
+\chapter*{序}
+\input{body/序.tex}
+\tableofcontents
+\thispagestyle{empty}
+\newpage
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\chapter{导言}
+\input{body/第一章 导言.tex}
+\chapter{正交函数}
+\input{body/第二章 正交函数.tex}
+\chapter{线性代数}
+\input{body/第三章 线性代数.tex}
+\chapter{经典力学}
+\input{body/第四章 经典力学.tex}
+\chapter{总结}
+\input{body/第五章 总结.tex}
+\end{document}

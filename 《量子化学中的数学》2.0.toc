@@ -1,0 +1,57 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}导言}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}量子力学中的本征值问题}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}经典力学的本征值问题}{2}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}本书涉及的范围}{2}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{第 1{} 章\nobreakspace {}练习}{2}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}正交函数}{3}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}基本概念:正交性和归一性}{3}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}用正交归一函数组展开}{7}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}富里叶(Fourier)级数}{10}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}构造正交归一函数}{13}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}勒让德多项式和其它特殊函数}{16}{section.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{第 2{} 章\nobreakspace {}练习}{23}{section*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}线性代数}{25}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}绪言}{25}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}矩阵、行列式和线性方程组}{29}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}线性变换}{42}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}线性算符}{47}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{第 3{} 章\nobreakspace {}练习}{55}{section*.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}经典力学}{58}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}导言和守恒定律}{58}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}广义坐标和拉格朗日方程;哈密顿方程}{61}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}力学体系的振动}{66}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}刚性力学体系的转动}{71}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{第 4{} 章\nobreakspace {}练习}{73}{section*.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}总结}{74}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}经典力学和量子力学之间的桥}{74}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}矩阵力学和波动力学的综合}{75}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{第 5{} 章\nobreakspace {}练习}{76}{section*.24}%
